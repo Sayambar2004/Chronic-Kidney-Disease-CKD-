@@ -420,19 +420,16 @@ elif page == "About Developer":
         """
         ### Developer Information
 
-        **Name:** Your Name
+        **Name:** Sayambar Roy Chowdhury
 
         **GitHub:**  
-        https://github.com/your-github
+        https://github.com/Sayambar2004
 
         **LinkedIn:**  
-        https://linkedin.com/in/your-linkedin
+        https://www.linkedin.com/in/sayambar-roy-chowdhury-731b0a282/
 
         **Email:**  
-        yourmail@gmail.com
-
-        **Portfolio:**  
-        https://yourportfolio.com
+        sayambarroychowdhury@gmail.com
 
         ---
         Developed as an end-to-end Machine Learning
