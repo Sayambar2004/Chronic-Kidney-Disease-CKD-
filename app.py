@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # ======================================
 
 # API_URL = "http://127.0.0.1:8000/predict"
-API_URL= "https://chronic-kidney-disease-ckd.onrender.com/"
+API_URL= "https://chronic-kidney-disease-ckd.onrender.com/predict"
 
 st.set_page_config(
     page_title="Disease Risk Stratification",
